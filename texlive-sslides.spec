@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-sslides
 Version:	20131201
-Release:	4
+Release:	5
 Summary:	Slides with headers and footers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sslides
