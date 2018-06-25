@@ -5,7 +5,7 @@
 # catalog-license lppl1.3
 # catalog-version undef
 Name:		texlive-sslides
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Slides with headers and footers
 Group:		Publishing
