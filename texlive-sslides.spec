@@ -1,6 +1,6 @@
 Name:		texlive-sslides
 Version:	32293
-Release:	1
+Release:	2
 Summary:	Slides with headers and footers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sslides
