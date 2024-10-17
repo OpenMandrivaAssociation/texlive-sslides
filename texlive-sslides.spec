@@ -3,7 +3,7 @@ Version:	32293
 Release:	2
 Summary:	Slides with headers and footers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sslides
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sslides
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sslides.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sslides.doc.r%{version}.tar.xz
